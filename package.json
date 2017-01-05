@@ -2,6 +2,8 @@
   "name": "tinkerhub-upnp",
   "version": "0.1.0",
   "license": "MIT",
+  "description": "Tracking when UPnP devices become available and unavailable",
+  "repository": "tinkerhub/tinkerhub-upnp",
   "main": "lib/index.js",
   "keywords": [
     "upnp"
