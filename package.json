@@ -9,16 +9,15 @@
     "upnp"
   ],
   "scripts": {
-    "prepublish": "node_modules/.bin/eslint lib",
     "test": "node_modules/.bin/eslint lib"
   },
   "dependencies": {
-    "node-fetch": "^1.6.3",
-    "tinkerhub-ssdp": "^0.1.0",
+    "node-fetch": "^1.7.3",
+    "tinkerhub-ssdp": "^0.2.1",
     "xml2js": "^0.4.17"
   },
   "devDependencies": {
-    "eslint": "^3.11.1",
-    "eslint-plugin-node": "^3.0.5"
+    "eslint": "^4.11.0",
+    "eslint-plugin-node": "^5.2.1"
   }
 }
