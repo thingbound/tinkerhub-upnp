@@ -1,6 +1,6 @@
 {
   "name": "tinkerhub-upnp",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "license": "MIT",
   "description": "Tracking when UPnP devices become available and unavailable",
   "repository": "tinkerhub/tinkerhub-upnp",
